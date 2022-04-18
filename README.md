@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @oosayeroo
 - 👀 I’m interested in fivem coding
-- 🌱 I’m currently learning from a friend and server owner
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning from several servers.
+- 💞️ I’m looking to collaborate on making a custom script
 - 📫 How to reach me ...
 
 <!---
